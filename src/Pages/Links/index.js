@@ -26,7 +26,7 @@ export default function App() {
   ]
 
   return (
-    <div className="bg-slate-200 dark:bg-slate-900 flex flex-row justify-center w-full h-[100vh]  select-none transition-colors duration-700">
+    <div className="bg-slate-200 w-[100vw] dark:bg-slate-900 flex flex-row justify-center h-[100vh]  select-none transition-colors duration-700">
       <motion.section
         initial={{ opacity: 0, scale: 0.5 }}
         animate={{ opacity: 1, scale: 1 }}
