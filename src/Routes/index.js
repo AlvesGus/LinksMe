@@ -2,7 +2,7 @@ import { Route, Routes, useLocation } from 'react-router-dom'
 
 import Social from '../Pages/Links'
 import Blog from '../Pages/Blog'
-import Posts from '../components/Posts'
+import Posts from '../components/PostsDetail'
 
 export default function RoutesApp() {
   const location = useLocation()
