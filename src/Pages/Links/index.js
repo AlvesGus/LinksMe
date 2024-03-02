@@ -8,7 +8,8 @@ export default function App() {
     {
       id: 1,
       nome: 'Visite meu Github',
-      icone: <Github strokeWidth={2} className="size-8" />
+      icone: <Github strokeWidth={2} className="size-8" />,
+      link: 'https://github.com/AlvesGus'
     },
     {
       id: 2,
