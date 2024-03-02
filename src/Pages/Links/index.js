@@ -58,7 +58,7 @@ export default function App() {
                   rel="noreferrer noopener"
                   href={redessociais.link}
                 >
-                  <section className="flex items-center justify-start gap-5 sm:w-[250px] md:w-[350px] md:gap-12 p-3 border rounded-lg dark:text-slate-200 text-slate-800  dark:border-white/35 border-black/20 sm:text-lg md:text-xl ">
+                  <section className="flex items-center justify-start sm:gap-3 sm:w-[280px] md:w-[350px] md:gap-12 p-3 border rounded-lg dark:text-slate-200 text-slate-800  dark:border-white/35 border-black/20 sm:text-lg md:text-xl ">
                     <div className="pl-3">{redessociais.icone}</div>{' '}
                     <div className="whitespace-nowrap">
                       <p>{redessociais.nome}</p>
